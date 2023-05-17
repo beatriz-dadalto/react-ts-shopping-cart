@@ -19,3 +19,7 @@
 
 - access on your browser: http://localhost:3000
 - access endpoint http://localhost:4000/products
+
+<br>
+
+<img src="https://github.com/beatriz-dadalto/react-ts-shopping-cart/blob/master/demo-image.gif" width="350px" />
