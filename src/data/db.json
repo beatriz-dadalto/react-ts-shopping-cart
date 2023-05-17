@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://i.pinimg.com/736x/22/e9/8c/22e98c83360ec2617750ca1e0929d22a--wmf-amazons.jpg",
+      "alt": "Livro O lado difícil das situações difíceis",
+      "title": "O lado difícil das situações difíceis",
+      "description": "um dos empreendedores mais respeitados e experientes do Vale do Silício, conta a história de como ele mesmo fundou, dirigiu, vendeu, comprou, geriu e investiu em empresas de tecnologia, oferecendo conselhos essenciais e normas de sabedoria prática para ajudar os empreendedores a resolver os problemas mais difíceis",
+      "price": 40
+    },
+    {
+      "id": 2,
+      "image": "https://i.pinimg.com/736x/dc/26/a1/dc26a10354298d20224c724b2f571b06.jpg",
+      "alt": "Livro Pense simples",
+      "title": "Pense simples",
+      "description": "Quando se quer alguma coisa que não existe é porque tem demanda e possivelmente um mercado. Hoje temos milhares de empresários que sonham em fazer uma única coisa: INOVAR! A inovação é o cálice sagrado do negócio de sucesso, mas como começar? Como você sabe o que fazer ou que rumo tomar para realizar algo que vai tocar a vida das pessoas e mudar o seu mercado? Gustavo Caetano aprendeu a enxergar problemas pequenos, mas que precisam de solução imediata, e a mudar o rumo do seu negócio para continuar crescendo. ",
+      "price": 40
+    },
+    {
+      "id": 3,
+      "image": "https://i.pinimg.com/originals/66/06/e6/6606e695f2f59855fa98565c843179b1.png",
+      "alt": "Livro Gatilhos Mentais",
+      "title": "Gatilhos Mentais",
+      "description": "Nessa obra, você descobrirá como aplicar na prática 32 gatilhos no seu negócio, indo muito além de uma simples comunicação de vendas ",
+      "price": 40
+    },
+    {
+      "id": 4,
+      "image": "https://guiadolivro.com/wp-content/uploads/2019/01/Comece-Pelo-Porqu%C3%AA-Online-Gr%C3%A1tis.jpg",
+      "alt": "Livro Comece pelo porquê",
+      "title": "Comece pelo porquê",
+      "description": "Como grandes líderes inspiram pessoas e equipes a agir",
+      "price": 40
+    },
+    {
+      "id": 5,
+      "image": "https://tudosobreprodutos.com.br/img/livro-os-segredos-do-lobo_5_.png",
+      "alt": "Livro Os segredos do lobo",
+      "title": "Os segredos do lobo",
+      "description": "Como ser um bom vendedor Imortalizado por Leonardo DiCaprio no filme O lobo de Wall Street, Jordan Belfort revela, pela primeira vez, o seu método de venda e persuasão. Reconhecido por sua capacidade de vender qualquer coisa para qualquer pessoa em enormes quantidades, o autor é também celebrado por saber formar vendedores.",
+      "price": 40
+    }
+  ]
+}
